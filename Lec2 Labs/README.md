@@ -1,3 +1,5 @@
+# Tasks During Lecture 2
+
 Lab1:Printing the true and false values of the compiler. <br />
 Lab2:Taking from user working hours of week , if working hours less than require rate Apply discount 10% on the total working hours.<br />
 Lab3:Taking number from the user and print if it is even or odd.<br />
